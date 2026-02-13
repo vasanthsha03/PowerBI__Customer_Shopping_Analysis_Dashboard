@@ -4,10 +4,7 @@
 
 ![Customer Shopping Analysis Dashboard](Screenshot%202026-01-22%20181519.png)
 
-📌 Project Outcome
-
-
-📌 Project Overview
+📌 Dashboard Overview
 
 The Customer Shopping Analysis Dashboard is a Power BI project designed to analyze retail sales performance, customer demographics, category trends, and mall-level revenue distribution.
 
